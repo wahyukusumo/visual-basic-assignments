@@ -5,7 +5,7 @@
 ###### Assignment 02
 <p align="center">
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/2.1.gif?raw=true" /><br>
-    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/2.2.gif?raw=true" /><br>
+    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/2.2.gif?raw=true" />
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/2.3.gif?raw=true" /><br>
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/2.4.gif?raw=true" /><br>
 </p>
@@ -24,8 +24,8 @@
 
 ###### Assignment 05
 <p align="center">
-    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/5.1.gif?raw=true" /><br>
-    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/5.2.gif?raw=true" /><br>
+    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/5.1.gif?raw=true" />
+    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/5.2.gif?raw=true" />
 </p>
 
 ###### Assignment 06
