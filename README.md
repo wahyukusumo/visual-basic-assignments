@@ -1,37 +1,91 @@
 ## Assignment Programming 1 Class
 
 ## Demo
+
+###### Assignment 02
 <p align="center">
-    <b>Demo for Assignment 02</b><br>
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/2.1.gif?raw=true" /><br>
+    <small>(Demo for Assignment 02.1)</small><br>
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/2.2.gif?raw=true" /><br>
+    <small>(Demo for Assignment 02.2)</small><br>
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/2.3.gif?raw=true" /><br>
+    <small>(Demo for Assignment 02.3)</small><br>
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/2.4.gif?raw=true" /><br>
-    <b>Demo for Assignment 03</b><br>
+    <small>(Demo for Assignment 02.4)</small><br>
+</p>
+
+###### Assignment 03
+<p align="center">
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/3.1.gif?raw=true" /><br>
+    <small>(Demo for Assignment 03.1)</small><br>
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/3.2.gif?raw=true" /><br>
-    <b>Demo for Assignment 04</b><br>
+    <small>(Demo for Assignment 03.2)</small><br>
+</p>
+
+###### Assignment 04
+<p align="center">
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/4.1.gif?raw=true" /><br>
+    <small>(Demo for Assignment 04.1)</small><br>
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/4.2.gif?raw=true" /><br>
-    <b>Demo for Assignment 05</b><br>
+    <small>(Demo for Assignment 04.2)</small><br>
+</p>
+
+###### Assignment 05
+<p align="center">
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/5.1.gif?raw=true" /><br>
+    <small>(Demo for Assignment 05.1)</small><br>
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/5.2.gif?raw=true" /><br>
-    <b>Demo for Assignment 06</b><br>
+    <small>(Demo for Assignment 05.2)</small><br>
+</p>
+
+###### Assignment 06
+<p align="center">
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/6.gif?raw=true" /><br>
-    <b>Demo for Assignment 07</b><br>
-    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/7.gif?raw=true" /><br>
-    <b>Demo for Assignment 08</b><br>
-    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/8.gif?raw=true" /><br>
-    <b>Demo for Assignment 09</b><br>
-    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/9.gif?raw=true" /><br>
-    <b>Demo for Assignment 10</b><br>
-    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/10.gif?raw=true" /><br>
-    <b>Demo for Assignment 11</b><br>
-    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/11.gif?raw=true" /><br>
-    <b>Demo for Assignment 12</b><br>
-    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs12.1.gif?raw=true" /><br>
-    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs12.2.gif?raw=true" /><br>
-    <b>Demo for Assignment 13</b><br>
+    <small>(Demo for Assignment 06)</small><br>
+</p>
+
+###### Assignment 07
+<p align="center">
+    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/7.gif?raw=true" /></br>
+    <small>(Demo for Assignment 07)</small><br>
+</p>
+
+###### Assignment 08
+<p align="center">
+    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/8.gif?raw=true" /></br>
+    <small>(Demo for Assignment 08)</small><br>
+</p>
+
+###### Assignment 09
+<p align="center">
+    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/9.gif?raw=true" /></br>
+    <small>(Demo for Assignment 09)</small><br>
+</p>
+
+###### Assignment 10
+<p align="center">
+    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/10.gif?raw=true" /></br>
+    <small>(Demo for Assignment 10)</small><br>
+</p>
+
+###### Assignment 11
+<p align="center">
+    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/11.gif?raw=true" /></br>
+    <small>(Demo for Assignment 11)</small><br>
+</p>
+
+###### Assignment 12
+<p align="center">
+    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/12.1.gif?raw=true" /><br>
+    <small>(Demo for Assignment 12.1)</small><br>
+    <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/12.2.gif?raw=true" /><br>
+    <small>(Demo for Assignment 12.2)</small><br>
+</p>
+
+###### Assignment 13
+<p align="center">
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/13.1.gif?raw=true" /><br>
+    <small>(Demo for Assignment 13.1)</small><br>
     <img src="https://github.com/wahyukusumo/Programming_1/blob/main/docs/13.2.gif?raw=true" /><br>
+    <small>(Demo for Assignment 13.2)</small><br>
 </p>
