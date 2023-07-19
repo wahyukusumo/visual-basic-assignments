@@ -1,5 +1,7 @@
 ## Assignment Programming 1 Class
 
+:computer_mouse: Mouse cursor made by [Tsumaguro_h](https://twitter.com/Tsumaguro_h). You can download it from [here.](https://tsumaguro-h.booth.pm/items/4567536)
+
 ## Demo
 
 ###### Assignment 02
